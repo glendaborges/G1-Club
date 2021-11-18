@@ -53,8 +53,9 @@ section{
 }
 /*REDIMENSIONAMENTO DAS IMAGENS DAS BEBIDAS*/
 .bebida img{
-    width: 300px;
-    height: 300px;
+    width: 280px;
+    height: 280px;
+    margin-bottom: 10px;
 }
 
 /*HOVER DAS IMAGENS DE BEBIDAS E CARDÁPIO*/
@@ -80,7 +81,7 @@ section{
 
 #premios{
     margin-top: 5px;
-    height: 70vh;
+    height: 50vh;
 }
 
 @media(max-width: 900px){
